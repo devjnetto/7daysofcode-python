@@ -1,18 +1,18 @@
 # 7 Days of Code: Python Web
 
 ## Descrição
-Projeto do desafio #7DaysOfCode com Python web. Neste projeto, estamos consumindo uma API e traduzindo alguns atributos utilizando a biblioteca Googletrans.
+Projeto do desafio #7DaysOfCode com Python web. Neste projeto, estamos consumindo uma API e traduzindo alguns atributos utilizando a biblioteca deep_translator(Googletrans).
 
 ## Habilidades Desenvolvidas:
 - Python
 - Consumo de APIs com Requests
-- Tradução com Googletrans
+- Tradução com deep_translator(Googletrans)
 - Integração de bibliotecas
 
 ## Tecnologias Utilizadas:
 - Python
 - Requests
-- Googletrans
+- deep_translator(Googletrans)
 
 ## Como Reproduzir este Repositório?
 ```bash
